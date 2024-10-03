@@ -1,2 +1,2 @@
-# Pojeto_3-J
-Maria Gabriela n27
+# terceiroTRI_3-J
+Pedro Henrique N°31 
