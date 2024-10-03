@@ -1,2 +1,2 @@
-# terceiroTRI_3-J
-Pedro Henrique N°31 
+# Projeto_3Tri
+Maria Gabriela N27 
