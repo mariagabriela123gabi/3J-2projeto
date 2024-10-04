@@ -1,2 +1,2 @@
-# Projeto_3Tri
-Maria Gabriela N27 
+# Projeto 3_Tri
+Maria Gabriela N 27
