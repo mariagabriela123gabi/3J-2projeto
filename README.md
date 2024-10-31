@@ -1,2 +1,1 @@
-# Projeto 3_Tri
-Maria Gabriela N 27
+julia 3j
